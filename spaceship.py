@@ -1,7 +1,7 @@
 #########################
 # Spaceship Starter Code
 #
-# Author: Your_name_here
+# Author: hi
 #########################
 
 print("Welcome traveler!")
